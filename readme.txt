@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: sergiuscosta
 Donate link: http://sergiocosta.net.br/
-Tags: scroll to top
+Tags: slideshow, carousel, bxslider, bx slider
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 4.2
@@ -13,9 +13,6 @@ A simple slideshow/carousel plugin based on BX Slider
 == Description ==
 
 A simple slideshow/carousel plugin based on BX Slider
-
-Initially, a very simple plugin, without options on the administrator panel. 
-Otherwise, soon, I'll make it possible. All the options you have on http://bxslider.com/ you will have in here.
 
 == Installation ==
 
@@ -49,7 +46,10 @@ Yes, of course you should! Just email, me: sergio.costa@outlook.com ! Thank you!
 = 1.0 =
 * Plugin created
 
+= 2.0 =
+* General options from the original BX Slider added to the plugin
+
 == Upgrade Notice ==
 
-= 1.0 =
-No updates available
+= 2.0 =
+Now, you can configure most of the "general options" from the original BX Slider
