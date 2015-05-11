@@ -9,13 +9,19 @@ A slideshow/carousel plugin for WordPress, based on BX Slider
 5. Place the shortcode '[sc_bxslider]' wherever you want, in your pages/posts OR place the following code into your php file:
  `<?php echo do_shortcode('[sc_slider]'); ?>` 
 6. Configure your slider into the administrator panel, if you want
-7. Enjoy!
+7. Edit your custom css, into the administrator panel (brand new)
+8. Enjoy!
 
 ### Download from WordPress plugins repository
 [SC BXSlider - You can download from the WordPress Plugins Repository](https://wordpress.org/plugins/sc-bxslider/)
 
 Initially, a very simple plugin, with a few options on the administrator panel, for now. 
 Otherwise, soon, I'll make it possible. All the options you have on [BX Slider](http://bxslider.com/) you will have in here.
+
+
+### What is coming next?
+ - More options into the plugin's options page
+ - Call files and scripts only when necessary
 
 
 ## License
